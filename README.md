@@ -2,7 +2,7 @@
 
 **Full-stack Web Developer **
 
-💼 **Current:** Software Engineer at [Almadrsa](https://almdrasa.com)
+💼 **Current:** Full-stack Web Developer
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views"/>
