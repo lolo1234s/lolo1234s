@@ -13,10 +13,9 @@
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 -🌇I'm a Software Engineer 
 
+-💻I'm constantly learning and exploring new technologies to improve my skills.
 
--💻As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-
-🖱️Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
+-🖱️Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
 
 -💻Check out my portfolio at https://yousefdergham.netlify.app/ to see some of the projects I've worked on.
 
