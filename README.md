@@ -11,7 +11,8 @@
 ## 🚀 About Me
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
--🌇I'm a Software Engineer Manager at QbDVision
+-🌇I'm a Software Engineer 
+
 
 -💻As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 
