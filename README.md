@@ -14,6 +14,7 @@
 -🌇I'm a Software Engineer Manager at QbDVision
 
 -💻As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+
 🖱️Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
 
 -💻Check out my portfolio at https://yousefdergham.netlify.app/ to see some of the projects I've worked on.
