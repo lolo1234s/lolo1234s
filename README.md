@@ -11,13 +11,12 @@
 ## 🚀 About Me
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
-🌇I'm a Software Engineer Manager at QbDVision
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/f181fde2-3a48-4f78-b36d-ed67d7508b3d" />
-💻As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/9e0f8916-6a7a-4dbd-b1a4-bbc37d039027" />
-Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
+-🌇I'm a Software Engineer Manager at QbDVision
 
-💻Check out my portfolio at https://yousefdergham.netlify.app/ to see some of the projects I've worked on.
+-💻As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+🖱️Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
+
+-💻Check out my portfolio at https://yousefdergham.netlify.app/ to see some of the projects I've worked on.
 
 
 
