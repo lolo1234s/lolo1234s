@@ -18,7 +18,7 @@
 
 -🖱️Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
 
--💻Check out my portfolio at https://yousefdergham.netlify.app/ to see some of the projects I've worked on.
+
 
 
 
